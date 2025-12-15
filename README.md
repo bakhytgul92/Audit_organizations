@@ -1,5 +1,5 @@
 # Audit_organizations
-This repository contains an organizational dataset and the complete Python code that processes it.
+This repository contains an organizational dataset and the complete Python code that processes it.\n
 You need to do the following steps to run Python files.
 
 1. Create and activate a virtual environment (optional but recommended)
