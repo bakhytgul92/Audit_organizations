@@ -14,14 +14,14 @@ or activate in Linux
 
 source venv/bin/activate  
 
-4. Install all required libraries using pip:
+3. Install all required libraries using pip:
 
 pip install numpy pandas nltk shap matplotlib seaborn xgboost tensorflow scikit-learn imbalanced-learn catboost scipy tensorflow-addons
 
-5. Optional: install Jupyter (if running notebooks)
+4. Optional: install Jupyter (if running notebooks)
 
 pip install jupyter notebook
 
-7. Run the Python Script
+5. Run the Python Script
 
 python main.py
